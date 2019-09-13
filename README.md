@@ -15,19 +15,21 @@ This assesment focus on 3 main points, with focus on the front end:
 
 ## Tasks:
 
-### 1. React: add counters
+### 1. React add counters
 
 We need counter for the tasks.
 The new app title should be `TO DOs <complete>/<total>`
 
-### 2. CSS/Design: style complete tasks
+### 2. CSS/Design style complete tasks
 
 Let's change how the complete tasks look like.
 Right now it's just a strike over, change it to class and add some style to it.
+Also, the "Complete" button shouldn't show for tasks that are complete.
 
-### 3. React async calls
+### 3. React talking to an API
 
-Call a server to store TODO data. Also use the data from the server to populate the app on start.
+Call a server to store TODO data.
+Also use the data from the server to populate the app on start.
 See ./server folder for the simple server implementation and endpoints
 
 ### 4. Node persist data in a JSON file

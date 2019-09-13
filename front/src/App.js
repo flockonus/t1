@@ -13,7 +13,6 @@ function Todo({ todo, completeTodo }) {
 
       <div>
         <button onClick={() => completeTodo(todo.id)}>Complete</button>
-        {/* <button onClick={() => removeTodo(todo.id)}>x</button> */}
       </div>
     </div>
   );
@@ -50,16 +49,6 @@ function App() {
       isCompleted: false,
       id: generateUid(),
     },
-    // {
-    //   text: "Meet friend for lunch",
-    //   isCompleted: false,
-    //   id: generateUid(),
-    // },
-    // {
-    //   text: "Build really cool todo app",
-    //   isCompleted: false,
-    //   id: generateUid(),
-    // }
   ]);
 
   const addTodo = text => {
