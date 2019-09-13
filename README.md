@@ -23,14 +23,14 @@ The new app title should be `TO DOs <complete>/<total>`
 ### 2. CSS/Design: style complete tasks
 
 Let's change how the complete tasks look like.
-Right now it's just a strike over, change it to class
+Right now it's just a strike over, change it to class and add some style to it.
 
 ### 3. React async calls
 
-Call a server to store and get back TODO data as it changes.
+Call a server to store TODO data. Also use the data from the server to populate the app on start.
 See ./server folder for the simple server implementation and endpoints
-Warning: there might dragons in the node.js implementation!
 
 ### 4. Node persist data in a JSON file
 
-All tasks are living in memory, but can
+All tasks are living in memory, but can we save them to a json file as they come in?
+hint: `fs.writeFileSync(file, data[, options]) -- writes data to a file, replacing the file if it already exists.`
