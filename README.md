@@ -15,9 +15,9 @@ This assesment focus on 3 main points, with focus on the front end:
 
 ## Tasks:
 
-### 1. React add counters
+### 1. Add some visual status
 
-We need counter for the tasks.
+We need to display a counter for the tasks.
 The new app title should be `TO DOs <complete>/<total>`
 
 ### 2. CSS/Design style complete tasks
