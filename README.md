@@ -12,6 +12,8 @@ This assesment focus on 3 main points, with focus on the front end:
 2. CSS
 3. Node.js server
 
+Feel free _to Google_, be and _communicate_ as progress is made, or if you hit a roadblock.
+
 
 ## Tasks:
 
