@@ -2,7 +2,7 @@
 
 You're tasked with improving this ficticious app we are creating!
 
-As a coop/intern you are not expected to know everything of everything, just take this opportunity to show you range of skills and be pro-active on communication.
+As an engineer you are not expected to know everything of everything, just take this opportunity to show you range of skills and be pro-active on communication.
 
 Please try making contribution to as many challenges presented, even if not able to complete them to 100% satisfaction. Suggest to prioritize them like this: **What actions I can take to create most value in this small test time?**
 
